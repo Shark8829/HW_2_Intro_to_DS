@@ -5,3 +5,5 @@
 | **COP**       | **2271**       | _Introduction to Computation and Programming_ | 3               |
 | **COP**       | **2073**       | _Introduction to Data Science_                | 3               |
 | **ISC**       | **2310**       | _Python for Data Analytics_                   | 3               |
+
+![Screenshot of Github repo used in HW01](C:\Users\capta\data_science\practice-repo/screenShot_HW01)
