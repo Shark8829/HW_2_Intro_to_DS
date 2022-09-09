@@ -7,3 +7,5 @@
 | **ISC**       | **2310**       | _Python for Data Analytics_                   | 3               |
 
 ![Screenshot of Github repo used in HW01](https://github.com/Shark8829/practice-repo/blob/main/screenShot_HW01.png)
+
+#added screenshot of Github repo used in HW01
